@@ -1,7 +1,4 @@
-
-
-
-
+//*change*
 //Trinh Tran
 //CSIS 1400
 import java.util.Random;
